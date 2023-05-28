@@ -16,9 +16,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
-        android:background="@color/white"
         android:layout_marginBottom="16dp"
-        android:text="0"
         android:textAlignment="textEnd"
         android:textColor="@color/black"
         android:textSize="32dp" />
@@ -27,7 +25,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/result_tv"
         android:text="0"
-        android:background="@color/white"
         android:textSize="64dp"
         android:textAlignment="textEnd"
         android:textColor="@color/black"
